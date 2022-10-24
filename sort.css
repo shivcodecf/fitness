@@ -3,7 +3,7 @@ html{
 	margin: 0;
 	padding: 0;
 	font-style: sans-serif;
-	background-image: url("gt.jpg");
+	background-image: url('gt.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -57,7 +57,7 @@ html{
 
 }
 ul{
-	list-style-image: url("health.jpg");
+	list-style-image: url('health.jpg');
 	margin-left: 70px;
 }
 .pt {
